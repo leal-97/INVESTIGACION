@@ -32,8 +32,8 @@ El software HMI es lo que hace que la interfaz sea interactiva y fácil de usar.
 
 ## Elementos de un sistema de adquisición de datos
 
-Todos los sistemas de adquisición de datos constan de tres elementos esenciales:
--
+**Todos los sistemas de adquisición de datos constan de tres elementos esenciales:**
+
 1.- El sensor.
 2.- El acondicionamiento de la señal.
 3.- El convertidor analógico-digital (ADC).
