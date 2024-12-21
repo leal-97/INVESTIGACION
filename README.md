@@ -110,16 +110,12 @@ Hoy en día, los acondicionadores de señal incluyen algunos de los elementos ne
 
 - Tarjetas de Adquisición de Datos. (s.f.). Termopares | Pt100 | Monitoreo temperatura. https://www.jmi.com.mx/tarjetas-de-adquisicion-de-datos/#:~:text=Las%20tarjetas%20de%20adquisición%20de%20datos%20(hardware)%20actúan%20como%20la,intérprete%20que%20traduce%20de%20un
 
-- (s.f.). https://imepi.com.mx/que-es-una-interfaz-hombre-maquina-hmi/
-
-- (s.f.). https://imepi.com.mx/que-es-una-interfaz-hombre-maquina-hmi/
-
-- ¿Qué es un sensor y qué hace? (s.f.). Soluciones de Adquisición de Datos (DAQ). https://dewesoft.com/es/blog/que-es-un-sensor
-
 - ¿Qué es un sensor y qué hace? (s.f.). Soluciones de Adquisición de Datos (DAQ). https://dewesoft.com/es/blog/que-es-un-sensor
 
 - ¿Qué es el acondicionamiento de señal? (s.f.). Soluciones de Adquisición de Datos (DAQ). https://dewesoft.com/es/blog/que-es-acondicionamiento-de-seal
 
+- (s.f.). https://imepi.com.mx/que-es-una-interfaz-hombre-maquina-hmi/
+ 
 # Créditos
 
 Desarrollado por: **Ing. Mecánico Eduardo Leal**
