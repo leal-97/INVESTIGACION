@@ -13,7 +13,7 @@ Las tarjetas de adquisición de datos consisten en tres partes principales:
 
 Un HMI (Human Machine Interface) es un sistema que proporciona una plataforma para la interacción entre los usuarios y los sistemas automatizados. Esta interfaz juega un papel crucial en la automatización industrial, facilitando la comunicación bidireccional entre humanos y máquinas.
 Las HMI constan de varios componentes de hardware que permiten la interacción entre el usuario y la máquina. Los más comunes incluyen:
-- Pantallas Táctiles
+- Pantallas Táctiles:
 Las pantallas táctiles proporcionan una interfaz de usuario interactiva que permite a los operadores interactuar directamente con el sistema de automatización.
 - Pantallas
 Las pantallas permiten a los operadores visualizar datos en tiempo real, representaciones gráficas de los procesos y alertas de estado del sistema.
