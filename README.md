@@ -25,9 +25,10 @@ El software HMI es lo que hace que la interfaz sea interactiva y fácil de usar.
 ## Elementos de un sistema de adquisición de datos
 
 Todos los sistemas de adquisición de datos constan de tres elementos esenciales:
-- El sensor.
-- El acondicionamiento de la señal.
-- El convertidor analógico-digital (ADC).
+-
+1.- El sensor.
+2.- El acondicionamiento de la señal.
+3.- El convertidor analógico-digital (ADC).
 
 - **Sensores (transductores):**
 Los sensores, a menudo llamados transductores, convierten los elementos del mundo real, como la temperatura, la fuerza y el movimiento, en señales de tensión o de corriente que pueden utilizarse como entradas para el ADC.
