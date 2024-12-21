@@ -4,7 +4,8 @@
 
 Las tarjetas de adquisición de datos (hardware) actúan como la interfaz entre una computadora y señales físicas, es decir, la información recaudada por el sensor se pasa al **"DAQ"** (Data Acquisition System), el cual se encarga de transformar los códigos del mundo real a los códigos digitales.
 Las tarjetas de adquisición de datos consisten en tres partes principales:  
--Circuito de acondicionamiento de señales. 
+
+- Circuito de acondicionamiento de señales. 
 - Convertidor analógico-digital **"ADC"** (Analog-to-Digital Converter). 
 - Bus del ordenador.
 
@@ -12,13 +13,13 @@ Las tarjetas de adquisición de datos consisten en tres partes principales:
 
 Un HMI (Human Machine Interface) es un sistema que proporciona una plataforma para la interacción entre los usuarios y los sistemas automatizados. Esta interfaz juega un papel crucial en la automatización industrial, facilitando la comunicación bidireccional entre humanos y máquinas.
 Las HMI constan de varios componentes de hardware que permiten la interacción entre el usuario y la máquina. Los más comunes incluyen:
--Pantallas Táctiles:
+- Pantallas Táctiles
 Las pantallas táctiles proporcionan una interfaz de usuario interactiva que permite a los operadores interactuar directamente con el sistema de automatización.
--Pantallas:
+- Pantallas
 Las pantallas permiten a los operadores visualizar datos en tiempo real, representaciones gráficas de los procesos y alertas de estado del sistema.
--Teclados
+- Teclados
 Los teclados son un componente esencial de muchas HMI, permitiendo a los usuarios introducir comandos y datos.
--Software y Herramientas de Desarrollo de HMI
+- Software y Herramientas de Desarrollo de HMI
 El software HMI es lo que hace que la interfaz sea interactiva y fácil de usar. Proporciona las funcionalidades necesarias para la visualización de datos, el control del proceso y la interacción con el sistema de automatización. Hay varias herramientas de desarrollo de HMI disponibles en el mercado, cada una con sus propias características y capacidades, siendo las más populares las proporcionadas por fabricantes como Siemens, Rockwell Automation y Schneider Electric.
 
 ## Elementos de un sistema de adquisición de datos
