@@ -8,6 +8,9 @@ Las tarjetas de adquisición de datos consisten en tres partes principales:
 - Circuito de acondicionamiento de señales. 
 - Convertidor analógico-digital **"ADC"** (Analog-to-Digital Converter). 
 - Bus del ordenador.
+
+
+
 ![]( https://github.com/leal-97/Investigaci-n/blob/main/D_Q_NP_2X_981085-CBT80849360556_122024-T.webp )
 
 ## ¿Qué es un HMI?
@@ -22,7 +25,11 @@ Las pantallas permiten a los operadores visualizar datos en tiempo real, represe
 Los teclados son un componente esencial de muchas HMI, permitiendo a los usuarios introducir comandos y datos.
 - **Software y Herramientas de Desarrollo de HMI:**
 El software HMI es lo que hace que la interfaz sea interactiva y fácil de usar. Proporciona las funcionalidades necesarias para la visualización de datos, el control del proceso y la interacción con el sistema de automatización. Hay varias herramientas de desarrollo de HMI disponibles en el mercado, cada una con sus propias características y capacidades, siendo las más populares las proporcionadas por fabricantes como Siemens, Rockwell Automation y Schneider Electric.
-![](  )
+
+
+![]( https://github.com/leal-97/Investigaci-n/blob/main/image-26.webp )
+
+
 ## Elementos de un sistema de adquisición de datos
 
 Todos los sistemas de adquisición de datos constan de tres elementos esenciales:
