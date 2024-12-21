@@ -102,3 +102,7 @@ Hoy en día, los acondicionadores de señal incluyen algunos de los elementos ne
 - Selección del rango de medida
 - Filtrado de señales
 - Conformidad con los requisitos del sensor.
+
+## Tipos de acondicionador de señal
+![]( https://github.com/leal-97/Investigaci-n/blob/58c8ac7fb1f844b4e18cd328e617a16aa6c18a23/WhatsApp%20Image%202024-12-21%20at%2002.39.05.jpeg
+)
